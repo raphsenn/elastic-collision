@@ -4,6 +4,10 @@ In physics, an elastic collision is an encounter (collision) between two bodies 
 
 This C++ project implements an elastic collision physics simulation using the SFML (Simple and Fast Multimedia Library). The simulation includes balls bouncing within a confined space, and users can manipulate gravity, restitution, and restart the simulation. This project was coded and tested with Ubuntu 22.04 LTS. 
 
+<div align="left">
+  <img src="./res/example.gif" alt="gif">
+</div>
+
 ## Getting Started
 
 ### Prerequisites
