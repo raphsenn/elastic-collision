@@ -1,4 +1,4 @@
-# elastic-collision-physics-simulation
+# elastic-collision
 
 In physics, an elastic collision is an encounter (collision) between two bodies in which the total kinetic energy of the two bodies remains the same. In an ideal, perfectly elastic collision, there is no net conversion of kinetic energy into other forms such as heat, noise, or potential energy.
 
