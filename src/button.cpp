@@ -15,7 +15,6 @@ void Button::create(std::string txt, sf::Font &font) {
   text.setPosition(xCord, yCord);
 
   button.setFillColor(col);
-  // button.setSize(sf::Vector2f(200, 100));
   button.setPosition(xCord, yCord);
 }
 
