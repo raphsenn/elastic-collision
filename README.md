@@ -19,7 +19,7 @@ This C++ project implements an elastic collision physics simulation using the SF
 
 1. Clone the repository:
 ```js
-git clone 
+git clone https://github.com/raphsenn/elastic-collision
 ```
 
 2. Install SFML by following the instructions on the official SFML website.
@@ -42,7 +42,7 @@ make
 ### Installation (without Makefile)
 1. Clone the repository:
 ```js
-git clone 
+git clone https://github.com/raphsenn/elastic-collision
 ```
 
 2. Install SFML by following the instructions on the official SFML website. Just download SFML folder and put it into this folder.
