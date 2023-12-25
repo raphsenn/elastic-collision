@@ -31,6 +31,7 @@ A collision in two dimensions obeys the same rules as a collision in one dimensi
   <img src="./res/collision.png" alt="img">
 </div>
 
+##### After Collision:
 <div align="left">
   <img src="./res/math3.png" alt="img">
 </div>
