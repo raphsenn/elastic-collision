@@ -1,4 +1,4 @@
-# elastic-collision-physics-simulation
+# elastic-collision
 
 In physics, an elastic collision is an encounter (collision) between two bodies in which the total kinetic energy of the two bodies remains the same. In an ideal, perfectly elastic collision, there is no net conversion of kinetic energy into other forms such as heat, noise, or potential energy.
 
@@ -50,7 +50,7 @@ A collision in two dimensions obeys the same rules as a collision in one dimensi
 
 1. Clone the repository:
 ```js
-git clone 
+git clone https://github.com/raphsenn/elastic-collision
 ```
 
 2. Install SFML by following the instructions on the official SFML website.
@@ -73,7 +73,7 @@ make
 ### Installation (without Makefile)
 1. Clone the repository:
 ```js
-git clone 
+git clone https://github.com/raphsenn/elastic-collision
 ```
 
 2. Install SFML by following the instructions on the official SFML website. Just download SFML folder and put it into this folder.
