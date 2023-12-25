@@ -8,6 +8,37 @@ This C++ project implements an elastic collision physics simulation using the SF
   <img src="./res/example.gif" alt="gif">
 </div>
 
+## How it works
+
+### Collision in Two Dimensions
+A collision in two dimensions obeys the same rules as a collision in one dimension. Total momentum in each direction is always the same before and after the collision. Total kinetic energy is the same before and after an elastic collision. Note that the kinetic energy is not calculated for each direction separately but depends on the magnitude of the total velocity of each object.
+
+#### Momentun is conserved in each dimension always (restitution = 1):
+
+<div align="left">
+  <img src="./res/math1.png" alt="img">
+</div>
+
+#### Kinetic energy is conserved in elastic collision (restitution = 1):
+
+<div align="left">
+  <img src="./res/math2.png" alt="img">
+</div>
+
+#### Collision
+
+<div align="left">
+  <img src="./res/collision.png" alt="img">
+</div>
+
+#### Note that, for a collision:
+
+- *Restitution* = 1 indicates an elastic collision.
+- 0 < *Restitution* < 1 indicates a partially elastic collision.
+- *Restitution* = 0 indicates a perfectly inelastic collision.
+- -1 < *Restitution* < 0 indicates a collision with some degree of "stickiness."
+- *Restitution* = -1 indicates a perfectly sticky collision.
+
 ## Getting Started
 
 ### Prerequisites
